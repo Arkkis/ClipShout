@@ -1,7 +1,8 @@
 # ClipShout
 Twitch bot with clip playing capabilities  
+  
 [![image](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/arkkis)  
-[Support developer](https://subs.twitch.tv/arkkis)
+Support developer [here!](https://subs.twitch.tv/arkkis)
 
 ## How to Setup
 - Add Browser as a source to your streaming software
