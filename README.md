@@ -20,6 +20,12 @@ Use command `!so CHANNELNAME` in your Twitch chat to play shoutout clip.
 - Login to your Twitch account
 - Done!
 
+## How to disconnect bot from Twitch account (optional if you have connected bot to Twitch)
+- Right click your browser source in your streaming software
+- Click `Interact`
+- Move your mouse to middle of the window and click `Reset`
+- Done!
+
 ## Options
 #### Options are added to your browser sources URL field with separating character `&`
 - channel=twitchchannel **(Required)**
