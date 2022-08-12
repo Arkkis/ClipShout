@@ -1,4 +1,5 @@
 # ClipShout
+[![image]({https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white})](https://www.twitch.tv/arkkis)
 Twitch bot with clip playing capabilities
 
 ## How to Setup
