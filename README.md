@@ -38,7 +38,7 @@ Use command `!so CHANNELNAME` in your Twitch chat to play shoutout clip.
   - Always plays the most viewed clip
 
 #### Examples
-```https://arkkis.com/clipshout/?channel=arkkis&quality=low&durationlimit=30```
-```https://arkkis.com/clipshout/?channel=tiitirun&quality=high&chatshout=true```
-```https://arkkis.com/clipshout/?channel=slipoverih&shoutOnRaid=true&alwaysTopClip=true```
-```https://arkkis.com/clipshout/?channel=bamxtreme&cliproll=true```
+```https://arkkis.com/clipshout/?channel=arkkis&quality=low&durationlimit=30```  
+```https://arkkis.com/clipshout/?channel=tiitirun&quality=high&chatshout=true```  
+```https://arkkis.com/clipshout/?channel=slipoverih&shoutOnRaid=true&alwaysTopClip=true```  
+```https://arkkis.com/clipshout/?channel=bamxtreme&cliproll=true```  
