@@ -5,6 +5,9 @@ Twitch bot with clip playing capabilities
 - Add Browser as a source to your streaming software
 - Fill `https://arkkis.com/clipshout/?channel=YOURTWITCHCHANNEL` in URL field
   - Remember to replace YOURTWITCHCHANNEL with your own channelname ;)
+- Set Width and Height to (for proper aspect ratio)
+  - 1920 and 1080
+  - 1280 and 720
 - Press OK and you are done
 
 ## How to Use
