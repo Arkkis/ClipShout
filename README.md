@@ -45,3 +45,7 @@ Use command `!so CHANNELNAME` in your Twitch chat to play shoutout clip.
 ```https://arkkis.com/clipshout/?channel=tiitirun&quality=high&chatshout=true```  
 ```https://arkkis.com/clipshout/?channel=slipoverih&shoutOnRaid=true&alwaysTopClip=true```  
 ```https://arkkis.com/clipshout/?channel=bamxtreme&cliproll=true```  
+
+## Frequently asked questions
+- Clips are lagging or buffering?
+  - Set quality to lower (see [Options](#options))
