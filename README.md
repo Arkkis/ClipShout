@@ -22,7 +22,7 @@ Use command `!so CHANNELNAME` in your Twitch chat to play shoutout clip.
 
 ## Options
 #### Options are added to your browser sources URL field with separating character `&`
-- (Required) channel=twitchchannel
+- channel=twitchchannel **(Required)**
   - Sets your Twitch channel with bot
 - quality=high
   - Values: high | medium | low
