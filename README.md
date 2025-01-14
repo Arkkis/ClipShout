@@ -51,6 +51,8 @@ Use command `!so CHANNELNAME` in your Twitch chat to play shoutout clip.
   - Plays clip automatically after 10 seconds you are raided
 - alwaysTopClip=true
   - Always plays the most viewed clip
+- featured=false
+  - Plays only featured clips from channel when set true
 
 #### Examples
 ```https://arkkis.com/clipshout/?channel=arkkis&quality=low&durationlimit=30```  
